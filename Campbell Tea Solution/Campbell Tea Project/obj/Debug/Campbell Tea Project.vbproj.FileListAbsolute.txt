@@ -1,0 +1,11 @@
+D:\krist\Documents\School\AHC\Spring 2017\CBIS 112\Projects\Finals Part 2\Campbell Tea Solution\Campbell Tea Project\bin\Debug\Campbell Tea Project.exe.config
+D:\krist\Documents\School\AHC\Spring 2017\CBIS 112\Projects\Finals Part 2\Campbell Tea Solution\Campbell Tea Project\bin\Debug\Campbell Tea Project.exe
+D:\krist\Documents\School\AHC\Spring 2017\CBIS 112\Projects\Finals Part 2\Campbell Tea Solution\Campbell Tea Project\bin\Debug\Campbell Tea Project.pdb
+D:\krist\Documents\School\AHC\Spring 2017\CBIS 112\Projects\Finals Part 2\Campbell Tea Solution\Campbell Tea Project\bin\Debug\Campbell Tea Project.xml
+D:\krist\Documents\School\AHC\Spring 2017\CBIS 112\Projects\Finals Part 2\Campbell Tea Solution\Campbell Tea Project\obj\Debug\Campbell Tea Project.vbprojResolveAssemblyReference.cache
+D:\krist\Documents\School\AHC\Spring 2017\CBIS 112\Projects\Finals Part 2\Campbell Tea Solution\Campbell Tea Project\obj\Debug\Campbell_Tea_Project.MainForm.resources
+D:\krist\Documents\School\AHC\Spring 2017\CBIS 112\Projects\Finals Part 2\Campbell Tea Solution\Campbell Tea Project\obj\Debug\Campbell_Tea_Project.Resources.resources
+D:\krist\Documents\School\AHC\Spring 2017\CBIS 112\Projects\Finals Part 2\Campbell Tea Solution\Campbell Tea Project\obj\Debug\Campbell Tea Project.vbproj.GenerateResource.Cache
+D:\krist\Documents\School\AHC\Spring 2017\CBIS 112\Projects\Finals Part 2\Campbell Tea Solution\Campbell Tea Project\obj\Debug\Campbell Tea Project.exe
+D:\krist\Documents\School\AHC\Spring 2017\CBIS 112\Projects\Finals Part 2\Campbell Tea Solution\Campbell Tea Project\obj\Debug\Campbell Tea Project.xml
+D:\krist\Documents\School\AHC\Spring 2017\CBIS 112\Projects\Finals Part 2\Campbell Tea Solution\Campbell Tea Project\obj\Debug\Campbell Tea Project.pdb
